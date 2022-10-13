@@ -37,10 +37,7 @@ define(["./workbox-3625d7b0"], function (e) {
                 { url: "./assets/index.af8385e7.js", revision: null },
                 { url: "./assets/workbox-window.prod.es5.d2780aeb.js", revision: null },
                 { url: "./index.html", revision: "c37969eef8dce424877681ae622e145d" },
-                {
-                    url: "./manifest.webmanifest",
-                    revision: "56df2db1ea69d84a203ac480a0dfa24b",
-                },
+                { url: "./manifest.webmanifest", revision: "56df2db1ea69d84a203ac480a0dfa24b" }
             ],
             {}
         ),
